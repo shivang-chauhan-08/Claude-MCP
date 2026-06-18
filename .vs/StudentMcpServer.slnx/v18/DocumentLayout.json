@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Claude AI\\StudentMcpServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90B8D159-C333-885D-EC32-2D3BB158477A}|StudentMcpServer\\StudentMcpServer.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\claude ai\\studentmcpserver\\studentmcpserver\\studenttools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B8D159-C333-885D-EC32-2D3BB158477A}|StudentMcpServer\\StudentMcpServer.csproj|solutionrelative:studentmcpserver\\studenttools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B8D159-C333-885D-EC32-2D3BB158477A}|StudentMcpServer\\StudentMcpServer.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\claude ai\\studentmcpserver\\studentmcpserver\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B8D159-C333-885D-EC32-2D3BB158477A}|StudentMcpServer\\StudentMcpServer.csproj|solutionrelative:studentmcpserver\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B8D159-C333-885D-EC32-2D3BB158477A}|StudentMcpServer\\StudentMcpServer.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\claude ai\\studentmcpserver\\studentmcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B8D159-C333-885D-EC32-2D3BB158477A}|StudentMcpServer\\StudentMcpServer.csproj|solutionrelative:studentmcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Claude AI\\StudentMcpServer\\StudentMcpServer\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMcpServer\\Program.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Claude AI\\StudentMcpServer\\StudentMcpServer\\Program.cs",
+              "RelativeToolTip": "StudentMcpServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:47:42.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentTools.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Claude AI\\StudentMcpServer\\StudentMcpServer\\StudentTools.cs",
+              "RelativeDocumentMoniker": "StudentMcpServer\\StudentTools.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Claude AI\\StudentMcpServer\\StudentMcpServer\\StudentTools.cs",
+              "RelativeToolTip": "StudentMcpServer\\StudentTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:47:21.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Claude AI\\StudentMcpServer\\StudentMcpServer\\Student.cs",
+              "RelativeDocumentMoniker": "StudentMcpServer\\Student.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Claude AI\\StudentMcpServer\\StudentMcpServer\\Student.cs",
+              "RelativeToolTip": "StudentMcpServer\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:46:09.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

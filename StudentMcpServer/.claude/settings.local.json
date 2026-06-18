@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(claude mcp *)",
+      "Skill(update-config)"
+    ]
+  },
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$data = $input | ConvertFrom-Json; $timestamp = Get-Date -Format 'yyyy-MM-dd HH:mm:ss'; \"[$timestamp] $($data.prompt)\" | Add-Content -Path \"C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\Claude AI\\StudentMcpServer\\StudentMcpServer\\prompt-log.txt\"",
+            "shell": "powershell"
+          }
+        ]
+      }
+    ]
+  }
+}
